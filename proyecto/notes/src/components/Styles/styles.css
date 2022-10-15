@@ -1,0 +1,34 @@
+.formulario {
+  min-width: 600px;
+  margin-top: 30px;
+  margin-left: 20%;
+  margin-right: 20%;
+  background: #fff;
+  border-radius: 5px;
+  padding: 20px;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+  -webkit-border-radius: ;
+  -moz-border-radius: ;
+  -ms-border-radius: ;
+  -o-border-radius: ;
+}
+
+#logo {
+  width: 20%;
+}
+#logoCupo {
+  width: 20%;
+}
+
+#grado {
+  font-weight: 600;
+  font-family: "Open Sans", sans-serif;
+  cursor: pointer;
+  width: 100%;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+#fondo {
+  position: unset;
+}
